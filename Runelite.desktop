@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Runelite
+Comment=
+Exec=java -jar /usr/local/bin/RuneLite.jar
+Icon=
+Path=/usr/local/bin
+Terminal=false
+StartupNotify=false
